@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitkumarsahu1
+- 👋 Hi, I’m @mohitksahu
 - 👀 I’m interested in ML and webDev
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Hackathon Projects
