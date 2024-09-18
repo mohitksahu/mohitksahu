@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mohitksahu
-- 👀 I’m interested in ML and webDev
+- 👋 Hi, I’m Mohit Kumar Sahu
+- 👀 I’m interested in ML and webDev.
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Hackathon Projects
 - 📫 How to reach me , contact me over mail.
